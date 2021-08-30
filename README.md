@@ -1,1 +1,1 @@
-This is a project about C
+# Programming in C
